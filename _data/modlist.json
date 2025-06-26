@@ -9,7 +9,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.1.0"
+    "version": "2.3.4.0"
   },
   {
     "author": "bradson",
@@ -60,16 +60,10 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": "2193152410",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Smash Phil and Sarg Bjornson",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.4.9133.21782"
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
   },
   {
     "author": "Owlchemist",
@@ -82,6 +76,18 @@
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": "2193152410",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Smash Phil and Sarg Bjornson",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.4.9133.21782"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -244,12 +250,6 @@
     "name": "Athena Framework",
     "steamId": "2903359518",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "Soul, Phaneron and Bradson",
-    "name": "Adaptive Storage Framework",
-    "steamId": "3033901359",
-    "version": "1.1.1"
   },
   {
     "author": "vin",
@@ -453,13 +453,13 @@
     "author": "Epicguru",
     "name": "Melee Animation",
     "steamId": "2944488802",
-    "version": "1.0.0+46a9740cb50a3dad6d14d360704a585040167a04"
+    "version": "1.0.0+27f0402ee1a546b9e8ba7c6a9f25241ea0f1a34a"
   },
   {
     "author": "Mlie",
     "name": "Show Me Your Hands",
     "steamId": "2475965842",
-    "version": "1.5.13"
+    "version": "1.5.14"
   },
   {
     "author": "Andromeda",
@@ -480,10 +480,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "OskarPotocki, Atlas, Kikohi and Sarg",
+    "author": "OskarPotocki, Sokyran, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "1718190143",
+    "version": "1.1.0"
   },
   {
     "author": "Densevoid and Maeyanie",
@@ -525,7 +525,7 @@
     "author": "slofa",
     "name": "Quick Stockpile Creation",
     "steamId": "1742151109",
-    "version": "1.0.0+951f7e1b0b3ee7cbf8501aa6e656ae82f5837f3e"
+    "version": "1.0.0+513078709cb3a5f0b1f22cd532bc59c97103d8da"
   },
   {
     "author": "Sandy",
@@ -576,6 +576,42 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids 2",
+    "steamId": "3309003431",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Sarg",
+    "name": "Vanilla Races Expanded - Insector",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Reel",
+    "name": "Reel's Insector Faction",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Bratwurstinator",
     "name": "Reorderer",
     "steamId": "2882337375",
@@ -591,7 +627,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.15.3.0"
+    "version": "1.16.0.0"
   },
   {
     "author": "aRandomKiwi",
@@ -804,28 +840,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, xrushha and legodude17",
+    "name": "Vanilla Factions Expanded - Deserters",
+    "steamId": "3025493377",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Thekiborg",
     "name": "Guarding Pawns",
-    "steamId": "3114183220",
-    "version": "1.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
     "version": "1.0.1.2"
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
-    "name": "Vanilla Factions Expanded - Pirates",
-    "steamId": "2723801948",
-    "version": "1.0.0.0"
   },
   {
     "author": "Sarg Bjornson",
@@ -996,12 +1026,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Heavy Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and SmashPhil",
     "name": "Vanilla Weapons Expanded - Makeshift",
     "steamId": null,
@@ -1053,7 +1077,7 @@
     "author": "YAYO",
     "name": "Yayo's Caravan (Continued)",
     "steamId": "2886919774",
-    "version": "1.5.1"
+    "version": "1.5.2"
   },
   {
     "author": "SpaceMoth",
@@ -1089,7 +1113,7 @@
     "author": "XeoNovaDan",
     "name": "[XND] Visible Pants",
     "steamId": "2264108215",
-    "version": "2.5"
+    "version": "2.6"
   },
   {
     "author": "seobongzu",

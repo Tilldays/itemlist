@@ -6945,7 +6945,7 @@
 	{
 		"abr": "bench",
 		"price": 86,
-		"category": "Furniture",
+		"category": "",
 		"defname": "Seat_Bench"
 	},
 	{
@@ -7017,13 +7017,13 @@
 	{
 		"abr": "dartsboard",
 		"price": 174,
-		"category": "Furniture",
+		"category": "Recreation",
 		"defname": "Joy_DartsBoard"
 	},
 	{
 		"abr": "punchingbag",
 		"price": 375,
-		"category": "Furniture",
+		"category": "",
 		"defname": "Joy_PunchingBag"
 	},
 	{
@@ -8307,7 +8307,7 @@
 	{
 		"abr": "unaunderwearfordresses",
 		"price": 166,
-		"category": "Apparel",
+		"category": "Noble apparel",
 		"defname": "Apparel_UNA_Dress_sitagi"
 	},
 	{
@@ -11441,7 +11441,481 @@
 		"price": 1833,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPE_Obscure"
-	}
+	},
+	{
+		"abr": "acidspitter",
+		"price": 1250,
+		"category": "Animals",
+		"defname": "VFEI2_Acidspitter"
+	},
+	{
+		"abr": "armor-piercingshell",
+		"price": 108,
+		"category": "Mortar shells",
+		"defname": "VFED_Shell_ArmorPiercing"
+	},
+	{
+		"abr": "biodecoder",
+		"price": 833,
+		"category": "Misc",
+		"defname": "VFED_Biodecoder"
+	},
+	{
+		"abr": "bombpack",
+		"price": 1500,
+		"category": "Utility",
+		"defname": "VFED_Apparel_BombPack"
+	},
+	{
+		"abr": "boomtick",
+		"price": 167,
+		"category": "Animals",
+		"defname": "VFEI2_Boomtick"
+	},
+	{
+		"abr": "burnoutintelscraper",
+		"price": 1133,
+		"category": "Misc",
+		"defname": "VFED_BurnoutIntelScraper"
+	},
+	{
+		"abr": "chargecycler",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "VFED_Gun_ChargeCycler"
+	},
+	{
+		"abr": "chelispherocore",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "VFEI2_PherocoreChelis"
+	},
+	{
+		"abr": "chiseleddoublebed",
+		"price": 318,
+		"category": "Furniture",
+		"defname": "VFE_Bed_StoneSlabDouble"
+	},
+	{
+		"abr": "chitin",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "VFEI2_Chitin"
+	},
+	{
+		"abr": "clustershell",
+		"price": 283,
+		"category": "Mortar shells",
+		"defname": "VFED_Shell_Cluster"
+	},
+	{
+		"abr": "coffeetable",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "VFE_CoffeeTable"
+	},
+	{
+		"abr": "criticalintel",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "VFED_CriticalIntel"
+	},
+	{
+		"abr": "deepheater",
+		"price": 83,
+		"category": "Special",
+		"defname": "VFEI2_DeepHeater"
+	},
+	{
+		"abr": "deserterdeclassifier",
+		"price": 833,
+		"category": "Utility",
+		"defname": "VFED_DeserterDeclassifier"
+	},
+	{
+		"abr": "desklamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "VFE_DeskLamp"
+	},
+	{
+		"abr": "durapod",
+		"price": 333,
+		"category": "Animals",
+		"defname": "VFEI2_Durapod"
+	},
+	{
+		"abr": "empress",
+		"price": 3000,
+		"category": "Animals",
+		"defname": "VFEI2_Empress"
+	},
+	{
+		"abr": "fletchling",
+		"price": 3500,
+		"category": "Ranged weapons",
+		"defname": "VFED_Gun_Fletchling"
+	},
+	{
+		"abr": "floorlamp",
+		"price": 66,
+		"category": "Furniture",
+		"defname": "VFE_FloorLamp"
+	},
+	{
+		"abr": "foampod",
+		"price": 83,
+		"category": "Special",
+		"defname": "VFEI2_FoamPod"
+	},
+	{
+		"abr": "fuelmite",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "VFEI2_Fuelmite"
+	},
+	{
+		"abr": "gigalocust",
+		"price": 1333,
+		"category": "Animals",
+		"defname": "VFEI2_Gigalocust"
+	},
+	{
+		"abr": "gigamite",
+		"price": 3000,
+		"category": "Animals",
+		"defname": "VFEI2_Gigamite"
+	},
+	{
+		"abr": "heatpod",
+		"price": 33,
+		"category": "Special",
+		"defname": "VFEI2_HeatPod"
+	},
+	{
+		"abr": "hellbeetle",
+		"price": 833,
+		"category": "Animals",
+		"defname": "VFEI2_Hellbeetle"
+	},
+	{
+		"abr": "iedarmor-piercingtrap",
+		"price": 225,
+		"category": "Security",
+		"defname": "VFED_TrapIED_ArmorPiercing"
+	},
+	{
+		"abr": "iedclustertrap",
+		"price": 575,
+		"category": "Security",
+		"defname": "VFED_TrapIED_Cluster"
+	},
+	{
+		"abr": "iedshrapneltrap",
+		"price": 208,
+		"category": "Security",
+		"defname": "VFED_TrapIED_Shrapnel"
+	},
+	{
+		"abr": "imperialmegahigh-shield",
+		"price": 6592,
+		"category": "Misc",
+		"defname": "VFED_ImperialMegaHighShield"
+	},
+	{
+		"abr": "insectoidqueen",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "VFEI2_Queen"
+	},
+	{
+		"abr": "intel",
+		"price": 167,
+		"category": "Misc",
+		"defname": "VFED_Intel"
+	},
+	{
+		"abr": "invisibilityengulfer",
+		"price": 2250,
+		"category": "Utility",
+		"defname": "VFED_Apparel_InvisibilityEngulfer"
+	},
+	{
+		"abr": "ironclad",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "VFEI2_Ironclad"
+	},
+	{
+		"abr": "kemianpherocore",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "VFEI2_PherocoreKemian"
+	},
+	{
+		"abr": "largeglowpod",
+		"price": 67,
+		"category": "Special",
+		"defname": "VFEI2_LargeGlowPod"
+	},
+	{
+		"abr": "longplantpot",
+		"price": 68,
+		"category": "Furniture",
+		"defname": "VFE_LongPlantPot"
+	},
+	{
+		"abr": "lounger",
+		"price": 174,
+		"category": "Furniture",
+		"defname": "VFE_Lounger"
+	},
+	{
+		"abr": "macrofly",
+		"price": 333,
+		"category": "Animals",
+		"defname": "VFEI2_Macrofly"
+	},
+	{
+		"abr": "megapede",
+		"price": 1250,
+		"category": "Animals",
+		"defname": "VFEI2_Megapede"
+	},
+	{
+		"abr": "megathrips",
+		"price": 167,
+		"category": "Animals",
+		"defname": "VFEI2_Megathrips"
+	},
+	{
+		"abr": "megawasp",
+		"price": 833,
+		"category": "Animals",
+		"defname": "VFEI2_Megawasp"
+	},
+	{
+		"abr": "modularcouch",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "VFE_ModularCouch"
+	},
+	{
+		"abr": "nuchaduspherocore",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "VFEI2_PherocoreNuchadus"
+	},
+	{
+		"abr": "patriarch",
+		"price": 3333,
+		"category": "Animals",
+		"defname": "VFEI2_Patriarch"
+	},
+	{
+		"abr": "psychicamplifier",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "VFED_PsychicAmplifier"
+	},
+	{
+		"abr": "psytrainer(adrenalinerush)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_AdrenalineRush"
+	},
+	{
+		"abr": "psytrainer(animalallies)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_AnimalAllies"
+	},
+	{
+		"abr": "psytrainer(assassinate)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Assassinate"
+	},
+	{
+		"abr": "psytrainer(balllightning)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BallLightning"
+	},
+	{
+		"abr": "psytrainer(beckon)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Beckon"
+	},
+	{
+		"abr": "psytrainer(bladefocus)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BladeFocus"
+	},
+	{
+		"abr": "psytrainer(bolt)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Bolt"
+	},
+	{
+		"abr": "psytrainer(bramblemaze)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_BrambleMaze"
+	},
+	{
+		"abr": "psytrainer(chainbolt)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ChainBolt"
+	},
+	{
+		"abr": "psytrainer(chaosskip)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ChaosSkip"
+	},
+	{
+		"abr": "psytrainer(chunkskip)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Chunkskip"
+	},
+	{
+		"abr": "psytrainer(conjureheatpearls)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ConjureHeatPearls"
+	},
+	{
+		"abr": "psytrainer(controlledfrenzy)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ControlledFrenzy"
+	},
+	{
+		"abr": "psytrainer(craftpsyring)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_CraftPsyRing"
+	},
+	{
+		"abr": "psytrainer(cropburst)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_CropBurst"
+	},
+	{
+		"abr": "psytrainer(decoy)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Decoy"
+	},
+	{
+		"abr": "psytrainer(eclipse)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Eclipse"
+	},
+	{
+		"abr": "psytrainer(enchantquality)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_EnchantQuality"
+	},
+	{
+		"abr": "psytrainer(essencetransfer)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_EssenceTransfer"
+	},
+	{
+		"abr": "psytrainer(farskip)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Farskip"
+	},
+	{
+		"abr": "psytrainer(firingfocus)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_FiringFocus"
+	},
+	{
+		"abr": "psytrainer(flashstorm)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Flashstorm"
+	},
+	{
+		"abr": "psytrainer(focus)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Focus"
+	},
+	{
+		"abr": "psytrainer(guardianskipbarrier)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_GuardianSkipbarrier"
+	},
+	{
+		"abr": "psytrainer(guidedshot)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_GuidedShot"
+	},
+	{
+		"abr": "psytrainer(haywire)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Haywire"
+	},
+	{
+		"abr": "psytrainer(hurricane)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Hurricane"
+	},
+	{
+		"abr": "psytrainer(intensifyshadows)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_IntensifyShadows"
+	},
+	{
+		"abr": "psytrainer(invisibility)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Invisibility"
+	},
+	{
+		"abr": "psytrainer(killskip)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_Killskip"
+	},
+	{
+		"abr": "psytrainer(manhunterpulse)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_ManhunterPulse"
+	},
+	{
+		"abr": "minipallet",
+		"price": 74,
+		"category": "Storage",
+		"defname": "sbz_MiniPallet"
+	},
+	{
+		"abr": "psytrainer(massbeckon)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPE_MassBeckon"
+	},
 	],
-	"total": 1974
+	"total": 2053
 }

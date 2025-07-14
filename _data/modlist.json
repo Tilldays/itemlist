@@ -19,7 +19,7 @@
   },
   {
     "author": "UnlimitedHugs",
-    "name": "Allow Tool (1.6 Temp)",
+    "name": "Allow Tool",
     "steamId": null,
     "version": null
   },
@@ -109,9 +109,9 @@
   },
   {
     "author": "Fluffy and Mersid",
-    "name": "Backup Power (1.6 Temp)",
-    "steamId": "3513877175",
-    "version": "1.0.0+67db5458f9aa10404351c2b4031e13231fd5b5ae"
+    "name": "Backup Power (Updated)",
+    "steamId": "3071356899",
+    "version": "1.10.175"
   },
   {
     "author": "Falconne",
@@ -121,8 +121,8 @@
   },
   {
     "author": "Creeper",
-    "name": "BetterInfoCard (1.6 Temp)",
-    "steamId": "3513860181",
+    "name": "BetterInfoCard",
+    "steamId": "2890920739",
     "version": "1.0.0.0"
   },
   {
@@ -148,6 +148,12 @@
     "name": "Compact Work Tab (Continued)",
     "steamId": "3250322299",
     "version": "1.6.0"
+  },
+  {
+    "author": "Shashlichnik ;p (aka Шашлычник ;р)",
+    "name": "Deep And Deeper",
+    "steamId": "3509420021",
+    "version": "1.0.0.0"
   },
   {
     "author": "merthsoft",
@@ -450,15 +456,9 @@
     "version": "1.0.17"
   },
   {
-    "author": "The White Crayon",
-    "name": "Quarry (1.6 Temp)",
-    "steamId": "3513840161",
-    "version": "2.0.0+0752f0a64776e90b86e01fc9cd5b3ac05d4b5f27"
-  },
-  {
     "author": "Reiquard",
-    "name": "Quest Expiration Critical Alert (1.6 Temp)",
-    "steamId": "3513872773",
+    "name": "Quest Expiration Critical Alert",
+    "steamId": "2405632805",
     "version": "1.0.0.0"
   },
   {
@@ -961,7 +961,7 @@
   },
   {
     "author": "bodlosh",
-    "name": "WeaponStats (1.6 Temp)",
+    "name": "WeaponStats",
     "steamId": null,
     "version": null
   },
@@ -996,7 +996,7 @@
     "version": null
   },
   {
-    "author": "none",
+    "author": "Orion",
     "name": "[CAT] Show Hair With Hats or Hide All Hats",
     "steamId": "2879080074",
     "version": "0.0.0.0"

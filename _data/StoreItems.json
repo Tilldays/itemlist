@@ -11089,12 +11089,6 @@
 		"defname": "VVE_EngineBlock"
 	},
 	{
-		"abr": "feralwerewolf",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Mashed_Bloodmoon_FeralWerewolf"
-	},
-	{
 		"abr": "firesprinkler",
 		"price": 104,
 		"category": "Hygiene",
@@ -11237,12 +11231,6 @@
 		"price": 4733,
 		"category": "Security",
 		"defname": "USH_GlittertechRepairer"
-	},
-	{
-		"abr": "goldhuntsman'stotem",
-		"price": 83,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemGold"
 	},
 	{
 		"abr": "goldenskinreplacement",
@@ -11599,42 +11587,6 @@
 		"defname": "HotWaterTank"
 	},
 	{
-		"abr": "houndslayerlongsword",
-		"price": 467,
-		"category": "Melee weapons",
-		"defname": "Mashed_Bloodmoon_MeleeWeapon_HoundslayerLongsword"
-	},
-	{
-		"abr": "houndslayershortsword",
-		"price": 250,
-		"category": "Melee weapons",
-		"defname": "Mashed_Bloodmoon_MeleeWeapon_HoundslayerShortsword"
-	},
-	{
-		"abr": "houndslayerthrowingaxebelt",
-		"price": 183,
-		"category": "Utility",
-		"defname": "Mashed_Bloodmoon_BeltHoundslayerThrowingAxe"
-	},
-	{
-		"abr": "houndslayerthrowingaxes",
-		"price": 175,
-		"category": "Melee weapons",
-		"defname": "Mashed_Bloodmoon_ThrownWeapon_HoundslayerThrowingAxe"
-	},
-	{
-		"abr": "houndslayerthrowingknifebelt",
-		"price": 183,
-		"category": "Utility",
-		"defname": "Mashed_Bloodmoon_BeltHoundslayerThrowingKnife"
-	},
-	{
-		"abr": "houndslayerthrowingknives",
-		"price": 175,
-		"category": "Melee weapons",
-		"defname": "Mashed_Bloodmoon_ThrownWeapon_HoundslayerThrowingKnife"
-	},
-	{
 		"abr": "hunterpack",
 		"price": 508,
 		"category": "Utility",
@@ -11645,102 +11597,6 @@
 		"price": 302,
 		"category": "Security",
 		"defname": "HunterDroneTrap"
-	},
-	{
-		"abr": "huntsman'stotem(adrenalinerush)",
-		"price": 1500,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemAdrenalineRush"
-	},
-	{
-		"abr": "huntsman'stotem(beasthowl)",
-		"price": 1500,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemBeastHowl"
-	},
-	{
-		"abr": "huntsman'stotem(beastleap)",
-		"price": 1500,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemBeastLeap"
-	},
-	{
-		"abr": "huntsman'stotem(endurance)",
-		"price": 250,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemEndurance"
-	},
-	{
-		"abr": "huntsman'stotem(fortitude)",
-		"price": 250,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemFortitude"
-	},
-	{
-		"abr": "huntsman'stotem(huntsman'smark)",
-		"price": 1500,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemHuntsmansMark"
-	},
-	{
-		"abr": "huntsman'stotem(infernalclaws)",
-		"price": 1500,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemFlameClaws"
-	},
-	{
-		"abr": "huntsman'stotem(magneticclaws)",
-		"price": 1500,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemEMPClaws"
-	},
-	{
-		"abr": "huntsman'stotem(moonveil)",
-		"price": 1500,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemMoonVeil"
-	},
-	{
-		"abr": "huntsman'stotem(noxiousclaws)",
-		"price": 1500,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemToxicClaws"
-	},
-	{
-		"abr": "huntsman'stotem(sight)",
-		"price": 250,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemSight"
-	},
-	{
-		"abr": "huntsman'stotem(silverclaws)",
-		"price": 1500,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemSilverClaws"
-	},
-	{
-		"abr": "huntsman'stotem(speed)",
-		"price": 250,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemSpeed"
-	},
-	{
-		"abr": "huntsman'stotem(strength)",
-		"price": 250,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemStrength"
-	},
-	{
-		"abr": "huntsman'stotem(summonspectralwerewolf)",
-		"price": 1500,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemSummonSpectralWerewolf"
-	},
-	{
-		"abr": "huntsman'stotem(tenacity)",
-		"price": 250,
-		"category": "Lycanthrope totems",
-		"defname": "Mashed_Bloodmoon_TotemTenacity"
 	},
 	{
 		"abr": "hygieneenhancer",
@@ -13069,12 +12925,6 @@
 		"defname": "SignalJammer"
 	},
 	{
-		"abr": "silverdustvesselbelt",
-		"price": 150,
-		"category": "Utility",
-		"defname": "Mashed_Bloodmoon_BeltSilverdustVessel"
-	},
-	{
 		"abr": "silverfish",
 		"price": 3000,
 		"category": "Animals",
@@ -13181,12 +13031,6 @@
 		"price": 12,
 		"category": "Eggs (unfert.)",
 		"defname": "EggSparrowUnfertilized"
-	},
-	{
-		"abr": "spectralwerewolf",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "Mashed_Bloodmoon_SpectralWerewolf"
 	},
 	{
 		"abr": "spiderfish",
@@ -13585,161 +13429,89 @@
 		"defname": "VFEI2_Venomite"
 	},
 	{
-		"abr": "voidspike",
-		"price": 833,
+		"abr": "awareglitterpanel",
+		"price": 9117,
 		"category": "Misc",
-		"defname": "RS_DarkArchiteSpike"
+		"defname": "USH_AwareGlitterpanel"
 	},
 	{
-		"abr": "vulture",
-		"price": 200,
-		"category": "Animals",
-		"defname": "Vulture"
-	},
-	{
-		"abr": "vultureegg(fert.)",
-		"price": 27,
-		"category": "Eggs (fert.)",
-		"defname": "EggVultureFertilized"
-	},
-	{
-		"abr": "vultureegg(unfert.)",
-		"price": 12,
-		"category": "Eggs (unfert.)",
-		"defname": "EggVultureUnfertilized"
-	},
-	{
-		"abr": "wagon",
-		"price": 4000,
-		"category": "Animal",
-		"defname": "VVE_Wagon"
-	},
-	{
-		"abr": "walk-infreezerunit",
-		"price": 153,
-		"category": "Hygiene",
-		"defname": "FreezerUnit"
-	},
-	{
-		"abr": "walrus",
-		"price": 500,
-		"category": "Animals",
-		"defname": "Walrus"
-	},
-	{
-		"abr": "walrusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Walrus"
-	},
-	{
-		"abr": "warbird",
-		"price": 4917,
-		"category": "Animal",
-		"defname": "VVE_Warbird"
-	},
-	{
-		"abr": "washingmachine",
-		"price": 433,
-		"category": "Hygiene",
-		"defname": "WashingMachine"
-	},
-	{
-		"abr": "wasptrap",
-		"price": 133,
+		"abr": "blastturret",
+		"price": 3492,
 		"category": "Security",
-		"defname": "WaspDroneTrap"
+		"defname": "BlastTurretGun"
 	},
 	{
-		"abr": "watertub",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "WashBucket"
+		"abr": "cryogenicnexus",
+		"price": 5217,
+		"category": "Ultratech",
+		"defname": "USH_CryogenicNexus"
 	},
 	{
-		"abr": "weaponrack",
-		"price": 76,
-		"category": "Storage",
-		"defname": "sbz_WeaponRack"
+		"abr": "devastatormortar",
+		"price": 5742,
+		"category": "Security",
+		"defname": "Turret_DevastatorMortarBomb"
 	},
 	{
-		"abr": "werewolfblood",
-		"price": 17,
-		"category": "Manufactured",
-		"defname": "Mashed_Bloodmoon_WerewolfBlood"
+		"abr": "guncomplex",
+		"price": 1125,
+		"category": "Security",
+		"defname": "GunComplex"
 	},
 	{
-		"abr": "werewolfpelt",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Mashed_Bloodmoon_WerewolfPelt"
+		"abr": "mannedblastturret",
+		"price": 3492,
+		"category": "Security",
+		"defname": "BlastTurretGunManned"
 	},
 	{
-		"abr": "werewolftrophy",
-		"price": 408,
-		"category": "Art",
-		"defname": "Mashed_Bloodmoon_WerewolfTrophySmall"
+		"abr": "mannedprecisionturret",
+		"price": 2025,
+		"category": "Security",
+		"defname": "PrecisionTurretGunManned"
 	},
 	{
-		"abr": "wisent",
-		"price": 7100,
-		"category": "Animal",
-		"defname": "VVE_Wisent"
+		"abr": "mannedsentrygun",
+		"price": 1192,
+		"category": "Security",
+		"defname": "MilitaryTurretGunManned"
 	},
 	{
-		"abr": "wolfsbaneelixir",
-		"price": 50,
-		"category": "Drugs",
-		"defname": "Mashed_Bloodmoon_PotionWolfsbane"
+		"abr": "mannedshredderturret",
+		"price": 1408,
+		"category": "Security",
+		"defname": "ShredderTurretGunManned"
 	},
 	{
-		"abr": "wolfsbaneflower",
-		"price": 2,
-		"category": "Plant matter",
-		"defname": "Mashed_Bloodmoon_WolfsbaneFlower"
+		"abr": "plasmapowercell",
+		"price": 1117,
+		"category": "Items",
+		"defname": "PlasmaPowerCell"
 	},
 	{
-		"abr": "wolfsbanevesselbelt",
-		"price": 152,
-		"category": "Utility",
-		"defname": "Mashed_Bloodmoon_BeltWolfsbaneVessel"
+		"abr": "aimanager",
+		"price": 7833,
+		"category": "Production",
+		"defname": "CM_AIManager"
 	},
 	{
-		"abr": "wolfsbloodelixir",
-		"price": 50,
-		"category": "Drugs",
-		"defname": "Mashed_Bloodmoon_PotionWolfsblood"
+		"abr": "basicmanagerdesk",
+		"price": 262,
+		"category": "Production",
+		"defname": "CM_BasicManagerStation"
 	},
 	{
-		"abr": "wolfsbloodvesselbelt",
-		"price": 152,
-		"category": "Utility",
-		"defname": "Mashed_Bloodmoon_BeltWolfsbloodVessel"
-	},
-	{
-		"abr": "wolfscureelixir",
-		"price": 333,
-		"category": "Drugs",
-		"defname": "Mashed_Bloodmoon_PotionWolfscure"
-	},
-	{
-		"abr": "wolverine",
-		"price": 250,
-		"category": "Animals",
-		"defname": "Wolverine"
-	},
-	{
-		"abr": "wolverinemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Wolverine"
-	},
-	{
-		"abr": "xanidespherocore",
-		"price": 1667,
+		"abr": "managerdatabase",
+		"price": 917,
 		"category": "Misc",
-		"defname": "VFEI2_PherocoreXanides"
+		"defname": "CM_ManagerDatabase"
+	},
+	{
+		"abr": "managerdesk",
+		"price": 508,
+		"category": "Production",
+		"defname": "CM_ManagerStation"
 	}
 	],
-	"total": 2290
+	"total": 2274
 }

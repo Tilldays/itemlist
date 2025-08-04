@@ -11643,7 +11643,7 @@
 	{
 		"abr": "kidoutfitstand",
 		"price": 102,
-		"category": "Furniture",
+		"category": "",
 		"defname": "Building_KidOutfitStand"
 	},
 	{
@@ -12105,7 +12105,7 @@
 	{
 		"abr": "outfitstand",
 		"price": 119,
-		"category": "Furniture",
+		"category": "",
 		"defname": "Building_OutfitStand"
 	},
 	{
@@ -13428,6 +13428,192 @@
 		"category": "Animals",
 		"defname": "VFEI2_Venomite"
 	},
+	{
+		"abr": "awareglitterpanel",
+		"price": 9117,
+		"category": "Misc",
+		"defname": "USH_AwareGlitterpanel"
+	},
+	{
+		"abr": "blastturret",
+		"price": 3492,
+		"category": "Security",
+		"defname": "BlastTurretGun"
+	},
+	{
+		"abr": "cryogenicnexus",
+		"price": 5217,
+		"category": "Ultratech",
+		"defname": "USH_CryogenicNexus"
+	},
+	{
+		"abr": "devastatormortar",
+		"price": 5742,
+		"category": "Security",
+		"defname": "Turret_DevastatorMortarBomb"
+	},
+	{
+		"abr": "guncomplex",
+		"price": 1125,
+		"category": "Security",
+		"defname": "GunComplex"
+	},
+	{
+		"abr": "mannedblastturret",
+		"price": 3492,
+		"category": "Security",
+		"defname": "BlastTurretGunManned"
+	},
+	{
+		"abr": "mannedprecisionturret",
+		"price": 2025,
+		"category": "Security",
+		"defname": "PrecisionTurretGunManned"
+	},
+	{
+		"abr": "mannedsentrygun",
+		"price": 1192,
+		"category": "Security",
+		"defname": "MilitaryTurretGunManned"
+	},
+	{
+		"abr": "mannedshredderturret",
+		"price": 1408,
+		"category": "Security",
+		"defname": "ShredderTurretGunManned"
+	},
+	{
+		"abr": "plasmapowercell",
+		"price": 1117,
+		"category": "Items",
+		"defname": "PlasmaPowerCell"
+	},
+	{
+		"abr": "aimanager",
+		"price": 7833,
+		"category": "Production",
+		"defname": "CM_AIManager"
+	},
+	{
+		"abr": "basicmanagerdesk",
+		"price": 262,
+		"category": "Production",
+		"defname": "CM_BasicManagerStation"
+	},
+	{
+		"abr": "managerdatabase",
+		"price": 917,
+		"category": "Misc",
+		"defname": "CM_ManagerDatabase"
+	},
+	{
+		"abr": "managerdesk",
+		"price": 508,
+		"category": "Production",
+		"defname": "CM_ManagerStation"
+	},
+	{
+		"abr": "neutroamineextractor",
+		"price": 1633,
+		"category": "Production",
+		"defname": "USH_NeutroamineExtractor"
+	},
+	{
+		"abr": "precisionturret",
+		"price": 2025,
+		"category": "Security",
+		"defname": "PrecisionTurretGun"
+	},
+	{
+		"abr": "rocketcomplex",
+		"price": 1700,
+		"category": "Security",
+		"defname": "RocketComplex"
+	},
+	{
+		"abr": "sentrygun",
+		"price": 1192,
+		"category": "Security",
+		"defname": "MilitaryTurretGun"
+	},
+	{
+		"abr": "shredderturret",
+		"price": 1408,
+		"category": "Security",
+		"defname": "ShredderTurretGun"
+	},
+	{
+		"abr": "upgradelens(piercing)",
+		"price": 4000,
+		"category": "Manufactured",
+		"defname": "USH_UpgradeArmor"
+	},
+	{
+		"abr": "ampflamerpistol",
+		"price": 992,
+		"category": "Walker module",
+		"defname": "AMP_Module_Flamer"
+	},
+	{
+		"abr": "amppistol",
+		"price": 783,
+		"category": "Walker module",
+		"defname": "AMP_Module_PT"
+	},
+	{
+		"abr": "ampsubmachinegun",
+		"price": 1292,
+		"category": "Walker module",
+		"defname": "AMP_Module_SMG"
+	},
+	{
+		"abr": "amplifiedmobilityplatform(module)",
+		"price": 5942,
+		"category": "Walker module",
+		"defname": "AMP_Module"
+	},
+	{
+		"abr": "exoskeletondagger",
+		"price": 238,
+		"category": "Walker module",
+		"defname": "AMP_Module_Dagger"
+	},
+	{
+		"abr": "gau-90",
+		"price": 2717,
+		"category": "Walker module",
+		"defname": "AMP_Module_Rifle"
+	},
+	{
+		"abr": "human",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Dummy"
+	},
+	{
+		"abr": "humanmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Dummy"
+	},
+	{
+		"abr": "scaffold",
+		"price": 342,
+		"category": "Misc",
+		"defname": "MF_Building_Scaffold"
+	},
+	{
+		"abr": "scaffoldstair",
+		"price": 342,
+		"category": "Misc",
+		"defname": "MF_Building_ScaffoldStair"
+	},
+	{
+		"abr": "techprint(walkerframe)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_WG_HeavyExoskeleton"
+	}
 	],
-	"total": 2260
+	"total": 2291
 }

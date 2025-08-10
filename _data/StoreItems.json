@@ -13549,71 +13549,11 @@
 		"defname": "USH_UpgradeArmor"
 	},
 	{
-		"abr": "ampflamerpistol",
-		"price": 992,
-		"category": "Walker module",
-		"defname": "AMP_Module_Flamer"
-	},
-	{
-		"abr": "amppistol",
-		"price": 783,
-		"category": "Walker module",
-		"defname": "AMP_Module_PT"
-	},
-	{
-		"abr": "ampsubmachinegun",
-		"price": 1292,
-		"category": "Walker module",
-		"defname": "AMP_Module_SMG"
-	},
-	{
-		"abr": "amplifiedmobilityplatform(module)",
-		"price": 5942,
-		"category": "Walker module",
-		"defname": "AMP_Module"
-	},
-	{
-		"abr": "exoskeletondagger",
-		"price": 238,
-		"category": "Walker module",
-		"defname": "AMP_Module_Dagger"
-	},
-	{
-		"abr": "gau-90",
-		"price": 2717,
-		"category": "Walker module",
-		"defname": "AMP_Module_Rifle"
-	},
-	{
-		"abr": "human",
-		"price": 2917,
-		"category": "Animal",
-		"defname": "Dummy"
-	},
-	{
-		"abr": "humanmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_Dummy"
-	},
-	{
-		"abr": "scaffold",
-		"price": 342,
+		"abr": "lovethrallcapacityserum",
+		"price": 1250,
 		"category": "Misc",
-		"defname": "MF_Building_Scaffold"
-	},
-	{
-		"abr": "scaffoldstair",
-		"price": 342,
-		"category": "Misc",
-		"defname": "MF_Building_ScaffoldStair"
-	},
-	{
-		"abr": "techprint(walkerframe)",
-		"price": 1667,
-		"category": "Techprints",
-		"defname": "Techprint_WG_HeavyExoskeleton"
+		"defname": "RS_LovethrallCapacitySerum"
 	}
 	],
-	"total": 2291
+	"total": 2282
 }

@@ -57,7 +57,7 @@
     "author": "llunak and Shadowrabbit",
     "name": "[SR]Factional War (fork)",
     "steamId": "3423264477",
-    "version": "1.0.0+41e6fb5c8b8965d12eb9039d1a3492cbdb00a531"
+    "version": "1.0.0+5cb111259c9798012819c94c145bc1477087056a"
   },
   {
     "author": "llunak and Shadowrabbit",
@@ -75,7 +75,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "4.1.5.0"
+    "version": "4.1.7.0"
   },
   {
     "author": "vin",
@@ -111,7 +111,7 @@
     "author": "ColossalFossil",
     "name": "Animals are fun! (Continued)",
     "steamId": "3245454244",
-    "version": "1.6.3+f738c64f2d675ca4fcea3475c25198c26cca3d56"
+    "version": "1.6.4+9f69b8a2d9e657af6197b8f242b41dd160a55af3"
   },
   {
     "author": "Willow, Erin and Taranchuk",
@@ -135,7 +135,7 @@
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": "935982361",
-    "version": "1.6.1.2+cf8a74bf12050dbef21f0288d0b8859f1989a6ca"
+    "version": "1.6.1.3+e339a5ca077cefe8005be09579a729a812fe01c7"
   },
   {
     "author": "Creeper",
@@ -159,7 +159,7 @@
     "author": "Captain Muscles (Original), Khobs, Maxhd4321 and Mr. Wolf (摄魂狼) (Chinese)",
     "name": "Chill the Fork Out",
     "steamId": "3523235444",
-    "version": "1.0.11"
+    "version": "1.0.21"
   },
   {
     "author": "OELS",
@@ -375,7 +375,7 @@
     "author": "Mehni",
     "name": "Numbers (1.6 Temp)",
     "steamId": "3513829896",
-    "version": "1.0.0+a6637110a822df954a40d53efaf21b6900453851"
+    "version": "1.0.0+fe6606e948d43cd887dfb1ebb4bfefd296f0a168"
   },
   {
     "author": "Ogre",
@@ -495,7 +495,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.17.4+b09e96041e317120e699b719d9171a1e2452b2fe"
+    "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
   },
   {
     "author": "aRandomKiwi",
@@ -651,7 +651,7 @@
     "author": "Ushanka",
     "name": "Ushankas Glittertech Expansion",
     "steamId": "3522676478",
-    "version": "0.1.0.0+4c421e7df220132f5eb32c1eb7954b9a8ff2805f"
+    "version": "0.1.0.0"
   },
   {
     "author": "Oskar Potocki, Smash Phil and Sarg Bjornson",
@@ -758,12 +758,6 @@
   {
     "author": "Neronix17",
     "name": "Vanilla Pawns Retextured",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
     "steamId": null,
     "version": null
   },
@@ -915,7 +909,7 @@
     "author": "ilyvion and Fluffy",
     "name": "Colony Manager Redux",
     "steamId": "3310027356",
-    "version": "0.12.3+6bdb2e120ff4fcbe77297b4d51edabc429b1f7a3"
+    "version": "0.12.4+c2a13257f94fe4d1dfd9231f756e5d4f3b4429a4"
   },
   {
     "author": "avilmask",
@@ -957,13 +951,13 @@
     "author": "Epicguru",
     "name": "Melee Animation",
     "steamId": "2944488802",
-    "version": "1.0.0+9b82db6e97475d7c49a98fed86253ab7cb7504e5"
+    "version": "1.0.0+557a36ace48303d144ec88cb71ad3bf89fcccfd5"
   },
   {
     "author": "NightmareCorporation",
     "name": "Museums",
     "steamId": "3204176859",
-    "version": "1.0.0+89df6133eec75677057631aa2a29fb9ff26769a2"
+    "version": "1.0.0+aafb853e1cb7c4cc93cb8b4670399fbc541e3711"
   },
   {
     "author": "Densevoid and Maeyanie",
@@ -1026,22 +1020,10 @@
     "version": null
   },
   {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Plants Expanded - More Plants",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
     "name": "Vanilla Psycasts Expanded",
     "steamId": "2842502659",
     "version": "1.1.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
-    "name": "Vanilla Textures Expanded",
-    "steamId": "2016436324",
-    "version": "1.0.0"
   },
   {
     "author": "Oracle of Thessia",
@@ -1080,16 +1062,16 @@
     "version": null
   },
   {
-    "author": "Erin",
-    "name": "Erin's Body Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Andromeda",
     "name": "Nice Hands Retexture",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth 2",
+    "steamId": "2260097569",
+    "version": "1.0.0.0"
   },
   {
     "author": "Zaljerem",
@@ -1102,18 +1084,6 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "7.0.6.0-RC1+1ca7c6f6287e48f5f245b4c8dee252be6f2eda94"
-  },
-  {
-    "author": "SirVan",
-    "name": "Van's Retexture : Mechanitor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SirVan",
-    "name": "Van's Retexture : Melee Weapons",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -1164,14 +1134,50 @@
     "version": "1.6.0.1"
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Taranchuk and Sarg",
     "name": "Vanilla Races Expanded - Insector",
     "steamId": null,
     "version": null
   },
   {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Body Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Reel",
     "name": "Reel's Insector Faction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Van's Retexture : Mechanitor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Van's Retexture : Melee Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
     "steamId": null,
     "version": null
   }

@@ -13553,7 +13553,73 @@
 		"price": 1250,
 		"category": "Misc",
 		"defname": "RS_LovethrallCapacitySerum"
-	}
+	},
+	{
+		"abr": "animaseed",
+		"price": 3000,
+		"category": "Misc",
+		"defname": "RG_AnimaSeed"
+	},
+	{
+		"abr": "hemolope",
+		"price": 1033,
+		"category": "Animals",
+		"defname": "RG_Hemolope"
+	},
+	{
+		"abr": "hemolopemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RG_Hemolope"
+	},
+	{
+		"abr": "kiwi",
+		"price": 133,
+		"category": "Animals",
+		"defname": "RG_KiwiBird"
+	},
+	{
+		"abr": "kiwiegg(fert.)",
+		"price": 17,
+		"category": "Eggs (fert.)",
+		"defname": "RG_EggKiwiFertilized"
+	},
+	{
+		"abr": "kiwiegg(fert.)",
+		"price": 17,
+		"category": "Eggs (unfert.)",
+		"defname": "RG_EggKiwiUnfertilized"
+	},
+	{
+		"abr": "kiwimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RG_KiwiBird"
+	},
+	{
+		"abr": "neutrolope",
+		"price": 800,
+		"category": "Animals",
+		"defname": "RG_Neutrolope"
+	},
+	{
+		"abr": "neutrolopemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RG_Neutrolope"
+	},
+	{
+		"abr": "rabbit",
+		"price": 83,
+		"category": "Animals",
+		"defname": "RG_Rabbit"
+	},
+	{
+		"abr": "rabbitmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RG_Rabbit"
+	},
 	],
-	"total": 2282
+	"total": 2292
 }

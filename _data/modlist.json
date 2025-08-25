@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.5.0"
+    "version": "2.4.1.0"
   },
   {
     "author": "Owlchemist",
@@ -159,7 +159,7 @@
     "author": "Captain Muscles (Original), Khobs, Maxhd4321 and Mr. Wolf (摄魂狼) (Chinese)",
     "name": "Chill the Fork Out",
     "steamId": "3523235444",
-    "version": "1.0.21"
+    "version": "1.0.22"
   },
   {
     "author": "OELS",
@@ -303,7 +303,7 @@
     "author": "ilyvion",
     "name": "ilyvion's Laboratory",
     "steamId": "3296362231",
-    "version": "0.16.0+db1f16d937ae1e866d1f4dc325c68d6a95f33cb9"
+    "version": "0.17.0+2b41b59f9889aa9c81bf828c95603964e6171315"
   },
   {
     "author": "Jaxe",
@@ -375,7 +375,7 @@
     "author": "Mehni",
     "name": "Numbers (1.6 Temp)",
     "steamId": "3513829896",
-    "version": "1.0.0+fe6606e948d43cd887dfb1ebb4bfefd296f0a168"
+    "version": "1.0.0+84bb098d16b26e403c811e34da99cf9a7752abc9"
   },
   {
     "author": "Ogre",
@@ -651,7 +651,7 @@
     "author": "Ushanka",
     "name": "Ushankas Glittertech Expansion",
     "steamId": "3522676478",
-    "version": "0.1.0.0"
+    "version": "0.1.0.0+59eed13a6af64dad43a137082ee184a17bb9f624"
   },
   {
     "author": "Oskar Potocki, Smash Phil and Sarg Bjornson",
@@ -957,7 +957,7 @@
     "author": "NightmareCorporation",
     "name": "Museums",
     "steamId": "3204176859",
-    "version": "1.0.0+aafb853e1cb7c4cc93cb8b4670399fbc541e3711"
+    "version": "1.0.0+931d2e20c4edfba426f1b9c9fcfe6fe32569faf0"
   },
   {
     "author": "Densevoid and Maeyanie",

@@ -11643,7 +11643,7 @@
 	{
 		"abr": "kidoutfitstand",
 		"price": 102,
-		"category": "",
+		"category": "Furniture",
 		"defname": "Building_KidOutfitStand"
 	},
 	{
@@ -12105,7 +12105,7 @@
 	{
 		"abr": "outfitstand",
 		"price": 119,
-		"category": "",
+		"category": "Furniture",
 		"defname": "Building_OutfitStand"
 	},
 	{
@@ -13620,6 +13620,12 @@
 		"category": "Meat",
 		"defname": "Meat_RG_Rabbit"
 	},
+	{
+		"abr": "glitterlink",
+		"price": 3858,
+		"category": "Ultratech",
+		"defname": "USH_Glitterlink"
+	},
 	],
-	"total": 2291
+	"total": 2292
 }

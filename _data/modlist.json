@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.4.1.0"
+    "version": "2.4.2.0"
   },
   {
     "author": "Owlchemist",
@@ -57,7 +57,7 @@
     "author": "llunak and Shadowrabbit",
     "name": "[SR]Factional War (fork)",
     "steamId": "3423264477",
-    "version": "1.0.0+5cb111259c9798012819c94c145bc1477087056a"
+    "version": "1.0.0+573ef4c77814322454c69ccb173628a4bd6532a7"
   },
   {
     "author": "llunak and Shadowrabbit",
@@ -75,7 +75,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "4.1.7.0"
+    "version": "4.1.8.0"
   },
   {
     "author": "vin",
@@ -303,13 +303,13 @@
     "author": "ilyvion",
     "name": "ilyvion's Laboratory",
     "steamId": "3296362231",
-    "version": "0.17.0+2b41b59f9889aa9c81bf828c95603964e6171315"
+    "version": "0.19.0+d61c28d1d529c8f5155f398be440aeaddc9cf954"
   },
   {
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "4.1.0.0"
+    "version": "4.2+22e6c6fce244bc45e278cc012ce945edac7b00b6"
   },
   {
     "author": "Zaljerem",
@@ -334,12 +334,6 @@
     "name": "Mood Alerts",
     "steamId": "3128351120",
     "version": "1.6.0"
-  },
-  {
-    "author": "Deadmano",
-    "name": "Mood Alerts (1.6 Temp)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Tidal",
@@ -411,7 +405,7 @@
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
-    "version": "1.0.0+9bf3e3d10192ecb6019097968fdd99072e45e1ea"
+    "version": "1.0.0+ff1022e1ba7c5c17256a00124f95be16bdc69799"
   },
   {
     "author": "Teemo",
@@ -867,7 +861,7 @@
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.0.0+362fa21b197153d9c2e47cdc262e281e5ad3dbc6"
+    "version": "1.6+640efbf646275dafd663d0b6efbacb2a67d02d30"
   },
   {
     "author": "1trickPwnyta",
@@ -909,13 +903,13 @@
     "author": "ilyvion and Fluffy",
     "name": "Colony Manager Redux",
     "steamId": "3310027356",
-    "version": "0.12.4+c2a13257f94fe4d1dfd9231f756e5d4f3b4429a4"
+    "version": "0.14.4+91c42fc0421be060f5e00b11b1295d190f20d103"
   },
   {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.9347.31617"
+    "version": "1.0.9374.28061"
   },
   {
     "author": "Uuugggg",
@@ -951,7 +945,7 @@
     "author": "Epicguru",
     "name": "Melee Animation",
     "steamId": "2944488802",
-    "version": "1.0.0+557a36ace48303d144ec88cb71ad3bf89fcccfd5"
+    "version": "1.0.0+0a51d313ee8254e3ceaee046d87d633cf398d9ce"
   },
   {
     "author": "NightmareCorporation",
@@ -1077,7 +1071,7 @@
     "author": "Zaljerem",
     "name": "Rimsential - Spaceports (Continued)",
     "steamId": "3225120958",
-    "version": "1.1.0.0"
+    "version": "1.0.0.0"
   },
   {
     "author": "SirRandoo",

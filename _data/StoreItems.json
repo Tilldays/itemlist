@@ -13626,6 +13626,30 @@
 		"category": "Ultratech",
 		"defname": "USH_Glitterlink"
 	},
+	{
+		"abr": "ancientlockerbank",
+		"price": 425,
+		"category": "",
+		"defname": "AM_AncientLockerBank"
+	},
+	{
+		"abr": "guestrestoredancientbed",
+		"price": 105,
+		"category": "",
+		"defname": "AM_AncientBedGuest"
+	},
+	{
+		"abr": "memoryprojector",
+		"price": 3658,
+		"category": "Ultratech",
+		"defname": "USH_MemoryProjector"
+	},
+	{
+		"abr": "restoredancientbed",
+		"price": 105,
+		"category": "",
+		"defname": "AM_AncientBed"
+	},
 	],
-	"total": 2292
+	"total": 2295
 }

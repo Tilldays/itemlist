@@ -6,16 +6,16 @@
     "version": "2.4.2.0"
   },
   {
-    "author": "Owlchemist",
-    "name": "Cherry Picker",
-    "steamId": "3521312241",
-    "version": "1.6+7e77b7fdba2daa472a5b7c2b35ac17c149dffa99"
-  },
-  {
     "author": "ilyvion",
     "name": "ilyvion's Laboratory",
     "steamId": "3296362231",
     "version": "0.20.0+798ec1862a32ca605234d16f0aaaee258b75b1f2"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Cherry Picker",
+    "steamId": "3521312241",
+    "version": "1.6+7e77b7fdba2daa472a5b7c2b35ac17c149dffa99"
   },
   {
     "author": "Soul, Phaneron and Bradson",
@@ -312,10 +312,10 @@
     "version": "1.0.6"
   },
   {
-    "author": "Captain Muscles (Nathan Harbour)",
+    "author": "Captain Muscles (Nathan Harbour) and Kat",
     "name": "Do Your F****** Research",
     "steamId": "3523205869",
-    "version": "1.0.8"
+    "version": "1.0.4"
   },
   {
     "author": "Mehni",
@@ -369,7 +369,7 @@
     "author": "Mlie",
     "name": "Smarter Visitors",
     "steamId": "3012491521",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   {
     "author": "YAYO",

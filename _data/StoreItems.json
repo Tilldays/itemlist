@@ -13650,6 +13650,18 @@
 		"category": "",
 		"defname": "AM_AncientBed"
 	},
+	{
+		"abr": "drum",
+		"price": 74,
+		"category": "Storage",
+		"defname": "sbz_Drum"
+	},
+	{
+		"abr": "safe",
+		"price": 74,
+		"category": "Storage",
+		"defname": "sbz_Safe"
+	}
 	],
-	"total": 2295
+	"total": 2297
 }

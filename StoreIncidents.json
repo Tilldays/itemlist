@@ -111,6 +111,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "wandererjoins",
+		"price": 50,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -193,11 +198,6 @@
 	{
 		"abr": "skillincrease",
 		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "party",
-		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -292,8 +292,13 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 1,
+		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "item",
+		"price": 50,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "prisoner",
@@ -319,6 +324,11 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
@@ -421,5 +431,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 84
+	"total": 86
 }
